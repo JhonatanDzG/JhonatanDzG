@@ -12,16 +12,16 @@
 ## ¿Qué hago? 🤔
 > Mi objetivo principal es crear aplicaciones web completas, desde el diseño y desarrollo del frontend hasta la implementación del backend. Me especializo en el desarrollo de aplicaciones escalables y de alto rendimiento.
 ## ¿Cuales son las tecnologías que más uso? 🤓
-> Javascript
-> Typescript
-> React.js
-> Next.js
-> Node.js
-> Express.js
-> PostgreSQL
-> MongoDB
-> Firebase
-> Sequelize
-> GIT
+* Javascript
+* Typescript
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* PostgreSQL
+* MongoDB
+* Firebase
+* Sequelize
+* GIT
 
 Estas tecnologías me permiten crear aplicaciones web modernas y eficientes, brindando una experiencia de usuario excepcional y un rendimiento óptimo. Estoy siempre abierto a aprender nuevas tecnologías y herramientas para mejorar mis habilidades como desarrollador Fullstack.
